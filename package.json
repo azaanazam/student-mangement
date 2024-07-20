@@ -1,0 +1,20 @@
+{
+  "name": "azan-azam-student-managemant-project",
+  "version": "1.0.4",
+  "description": "This is cli based application",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Azan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
